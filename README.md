@@ -28,7 +28,7 @@ The project follows the **Medallion Architecture** with structured data processi
 - **Delta Lake** – ACID-compliant storage for data versioning and optimization.
 
 ## 📁 Data Sources
-- **NYC Taxi Data API** – Public dataset from NYC Government.
+- **NYC Taxi Data API** – Public dataset from NYC Government. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **CSV Files** – Hosted on GitHub.
 
 
